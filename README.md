@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=212221&height=150&section=header&text=D%20A%20N%20G&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=212221&height=200&section=header&text=D%20A%20N%20G&fontSize=60)
 
 <h3 align="center">
 
