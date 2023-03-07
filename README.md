@@ -2,10 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=212221&height=200&section=header&text=D%20A%20N%20G&fontSize=80)
 
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dang417)](https://solved.ac/dang417)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=dang417&theme=warm)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dang417)](https://solved.ac/dang417)          ![mazandi profile](http://mazandi.herokuapp.com/api?handle=dang417&theme=warm)
 
 ![footer](https://capsule-render.vercel.app/api?type=transparent&color=212221&height=100&section=footer&text=HI&fontSize=30)
 
