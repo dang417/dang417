@@ -1,6 +1,7 @@
+<h3 align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=212221&height=200&section=header&text=D%20A%20N%20G&fontSize=80)
 
-<h3 align="center">
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dang417)](https://solved.ac/dang417)
 
